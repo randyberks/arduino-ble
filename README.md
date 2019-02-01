@@ -11,9 +11,9 @@ Control a buzzer and led using an android device.
 - BLE app [Bluo](https://play.google.com/store/apps/details?id=com.inspina.bluo&hl=en)
 
 ## Diagram
-Hookup diagram: [Diagram](https://git.berks.me/randyberks/arduino-ble/raw/master/images/diagram.png "Diagram")
+Hookup diagram: [Diagram](https://github.com/randyberks/arduino-ble/blob/master/images/diagram.png "Diagram")
 </br>
-A screenshot of the serial monitor and the android app can be found [here](https://git.berks.me/randyberks/arduino-ble/src/master/images/screenshot.png)
+A screenshot of the serial monitor and the android app can be found [here](https://github.com/randyberks/arduino-ble/blob/master/images/screenshot.png)
 
 ## License
 This repo is MIT licensed, as found in the license file
